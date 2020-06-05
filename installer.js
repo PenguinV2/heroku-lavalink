@@ -1,5 +1,5 @@
 const { spawn } = require('child_process');
-const { configure, download } = require('./utils');
+const { configure, download } = require('./utils')
 
 configure();
 download();
